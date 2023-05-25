@@ -1,6 +1,4 @@
-# quarkus-test
-
-This project uses Quarkus, the Kotlin Framework(JDK17), and use MockWebServer to test my logic
+# This project uses Quarkus, the Kotlin Framework(JDK17), and use MockWebServer to test my logic
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
